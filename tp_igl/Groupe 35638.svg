@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="633.617" height="608.725" viewBox="0 0 633.617 608.725">
+  <defs>
+    <filter id="Rectangle_1297" x="0" y="0" width="633.617" height="608.725" filterUnits="userSpaceOnUse">
+      <feOffset dy="40" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-color="#0e77ff" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Groupe_35638" data-name="Groupe 35638" transform="matrix(0.777, 0.629, -0.629, 0.777, 231.264, 20)">
+    <g transform="matrix(0.78, -0.63, 0.63, 0.78, -192.31, 130)" filter="url(#Rectangle_1297)">
+      <rect id="Rectangle_1297-2" data-name="Rectangle 1297" width="440.526" height="272.14" rx="7.936" transform="matrix(0.78, 0.63, -0.63, 0.78, 231.26, 20)" fill="#fff"/>
+    </g>
+    <g id="Groupe_35637" data-name="Groupe 35637" transform="translate(47.396 46.255)">
+      <rect id="Rectangle_1298" data-name="Rectangle 1298" width="53.306" height="16.287" fill="#0e77ff"/>
+      <rect id="Rectangle_1299" data-name="Rectangle 1299" width="96.792" height="16.287" transform="translate(63.827 0)" fill="#f0f6ff"/>
+      <rect id="Rectangle_1300" data-name="Rectangle 1300" width="179.206" height="16.287" transform="translate(171.14 0)" fill="#0e77ff"/>
+      <rect id="Rectangle_1301" data-name="Rectangle 1301" width="95.389" height="16.287" transform="translate(0 34.874)" fill="#0e77ff"/>
+      <rect id="Rectangle_1302" data-name="Rectangle 1302" width="150.098" height="16.287" transform="translate(105.91 34.874)" fill="#0e77ff"/>
+      <rect id="Rectangle_1303" data-name="Rectangle 1303" width="114.678" height="16.287" transform="translate(39.278 69.747)" fill="#f0f6ff"/>
+      <rect id="Rectangle_1304" data-name="Rectangle 1304" width="28.757" height="16.287" transform="translate(0 69.747)" fill="#0e77ff"/>
+      <rect id="Rectangle_1305" data-name="Rectangle 1305" width="185.869" height="16.287" transform="translate(164.477 69.747)" fill="#f0f6ff"/>
+      <rect id="Rectangle_1306" data-name="Rectangle 1306" width="100.299" height="16.287" transform="translate(95.389 104.621)" fill="#0e77ff"/>
+      <rect id="Rectangle_1307" data-name="Rectangle 1307" width="77.855" height="16.287" transform="translate(206.21 104.621)" fill="#0e77ff"/>
+      <rect id="Rectangle_1308" data-name="Rectangle 1308" width="55.761" height="16.287" transform="translate(294.585 104.621)" fill="#0e77ff"/>
+      <rect id="Rectangle_1309" data-name="Rectangle 1309" width="84.869" height="16.287" transform="translate(0 104.621)" fill="#f0f6ff"/>
+      <rect id="Rectangle_1310" data-name="Rectangle 1310" width="127.654" height="16.287" transform="translate(0 139.495)" fill="#0e77ff"/>
+      <rect id="Rectangle_1311" data-name="Rectangle 1311" width="124.497" height="16.287" transform="translate(138.174 139.495)" fill="#f0f6ff"/>
+    </g>
+  </g>
+</svg>

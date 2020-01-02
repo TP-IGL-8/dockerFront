@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="927" height="1016" viewBox="0 0 927 1016">
+  <defs>
+    <filter id="Rectangle_1261" x="0" y="0" width="927" height="1016" filterUnits="userSpaceOnUse">
+      <feOffset dy="40" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur"/>
+      <feFlood flood-color="#0e77ff" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Groupe_35687" data-name="Groupe 35687" transform="translate(-802 -8587)">
+    <g transform="matrix(1, 0, 0, 1, 802, 8587)" filter="url(#Rectangle_1261)">
+      <rect id="Rectangle_1261-2" data-name="Rectangle 1261" width="747" height="836" transform="translate(90 50)" fill="#fff"/>
+    </g>
+    <text id="Send_Us_message" data-name="Send Us message" transform="translate(980 8775)" fill="#292929" font-size="36" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Send Us message</tspan></text>
+    <g id="Groupe_35618" data-name="Groupe 35618" transform="translate(374 1108)">
+      <text id="Your_Email_" data-name="Your Email*" transform="translate(614 7724)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="22">Your Email*</tspan></text>
+      <text id="Your_Name_" data-name="Your Name*" transform="translate(609 7801)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="22">Your Name*</tspan></text>
+      <text id="Phone_Number_" data-name="Phone Number*" transform="translate(609 7879)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="22">Phone Number*</tspan></text>
+      <text id="Subject" transform="translate(609 7958)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="22">Subject</tspan></text>
+      <text id="Your_Message" data-name="Your Message" transform="translate(609 8054)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="22">Your Message</tspan></text>
+      <text id="By_sending_this_message_you_confirm_that_you_have_read_and_agreed_to_our_privacy-policy." data-name="By sending this message, you confirm that you have read and agreed to our privacy-policy." transform="translate(651 8175)" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="15">By sending this message, you confirm that you </tspan><tspan x="0" y="33">have read and agreed to our privacy-policy.</tspan></text>
+      <line id="Ligne_74" data-name="Ligne 74" x2="554.5" transform="translate(614.5 7757.5)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Ligne_75" data-name="Ligne 75" x2="554.5" transform="translate(609.5 7834.5)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Ligne_76" data-name="Ligne 76" x2="554.5" transform="translate(609.5 7912.5)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Ligne_77" data-name="Ligne 77" x2="554.5" transform="translate(609.5 7991.5)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Ligne_78" data-name="Ligne 78" x2="554.5" transform="translate(609.5 8138.5)" fill="none" stroke="#000" stroke-width="1"/>
+      <g id="Rectangle_1262" data-name="Rectangle 1262" transform="translate(609 8179)" fill="none" stroke="#c9c9c9" stroke-width="1">
+        <rect width="29" height="28" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="28" height="27" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Groupe_35620" data-name="Groupe 35620" transform="translate(-319 993)">
+      <rect id="Rectangle_1263" data-name="Rectangle 1263" width="239" height="72" rx="35" transform="translate(1302 8367)" fill="#0e77ff"/>
+      <g id="Groupe_35619" data-name="Groupe 35619" transform="translate(1201 7605)">
+        <text id="Get_Started" data-name="Get Started" transform="translate(143 806)" fill="#fff" font-size="25" font-family="Muli-Regular, Muli"><tspan x="0" y="0">Get Started</tspan></text>
+        <g id="Groupe_35131" data-name="Groupe 35131" transform="translate(3.285 0.557)">
+          <g id="arrow-down-sign-to-navigate" transform="translate(287.748 803.598) rotate(-90)">
+            <path id="Tracé_36455" data-name="Tracé 36455" d="M6.119,6.976a.854.854,0,0,1-.606-.251L.251,1.463A.857.857,0,0,1,1.463.251L6.119,4.907,10.774.251a.857.857,0,1,1,1.212,1.212L6.724,6.725A.854.854,0,0,1,6.119,6.976Z" transform="translate(0 0)" fill="#fff"/>
+          </g>
+          <g id="arrow-down-sign-to-navigate-2" data-name="arrow-down-sign-to-navigate" transform="translate(282.552 803.598) rotate(-90)">
+            <path id="Tracé_36455-2" data-name="Tracé 36455" d="M6.119,6.976a.854.854,0,0,1-.606-.251L.251,1.463A.857.857,0,0,1,1.463.251L6.119,4.907,10.774.251a.857.857,0,1,1,1.212,1.212L6.724,6.725A.854.854,0,0,1,6.119,6.976Z" transform="translate(0 0)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

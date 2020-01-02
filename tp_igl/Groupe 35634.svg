@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1398.986" height="1436.309" viewBox="0 0 1398.986 1436.309">
+  <defs>
+    <filter id="Tracé_37507" x="0" y="0" width="1398.986" height="1436.309" filterUnits="userSpaceOnUse">
+      <feOffset dy="40" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-color="#0e77ff" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Groupe_35634" data-name="Groupe 35634" transform="matrix(0.777, 0.629, -0.629, 0.777, 720.075, 20)">
+    <g transform="matrix(0.78, -0.63, 0.63, 0.78, -572.19, 437.61)" filter="url(#Tracé_37507)">
+      <path id="Tracé_37507-2" data-name="Tracé 37507" d="M19.66,0H776.729a19.66,19.66,0,0,1,19.66,19.66V1029.209a19.66,19.66,0,0,1-19.66,19.66H19.66A19.66,19.66,0,0,1,0,1029.209V19.66A19.66,19.66,0,0,1,19.66,0Z" transform="matrix(0.78, 0.63, -0.63, 0.78, 720.07, 20)" fill="#0e77ff"/>
+    </g>
+    <rect id="Rectangle_1273" data-name="Rectangle 1273" width="796.39" height="352.834" transform="translate(0 415.586)" fill="#fff"/>
+    <path id="Tracé_37503" data-name="Tracé 37503" d="M796.388,77.122V15.87A15.868,15.868,0,0,0,780.52,0H15.868A15.87,15.87,0,0,0,0,15.87V77.122Z" transform="translate(0.001 0)" fill="#fff"/>
+    <rect id="Rectangle_1274" data-name="Rectangle 1274" width="413.044" height="28.139" transform="translate(256.701 24.436)" fill="#f0f6ff"/>
+    <rect id="Rectangle_1275" data-name="Rectangle 1275" width="28.139" height="28.139" transform="translate(739.993 24.436)" fill="#f0f6ff"/>
+    <rect id="Rectangle_1276" data-name="Rectangle 1276" width="28.139" height="28.139" rx="5.875" transform="translate(694.591 24.436)" fill="#f0f6ff"/>
+    <rect id="Rectangle_1277" data-name="Rectangle 1277" width="271.41" height="221.918" transform="translate(441.441 132.202)" fill="#fff"/>
+    <rect id="Rectangle_1278" data-name="Rectangle 1278" width="271.41" height="31.132" transform="translate(77.432 132.202)" fill="#fff"/>
+    <rect id="Rectangle_1279" data-name="Rectangle 1279" width="102.976" height="34.922" transform="translate(77.432 303.43)" fill="#fff"/>
+    <rect id="Rectangle_1280" data-name="Rectangle 1280" width="271.41" height="11.575" transform="translate(77.432 196.063)" fill="#fff"/>
+    <rect id="Rectangle_1281" data-name="Rectangle 1281" width="232.329" height="11.575" transform="translate(77.432 219.612)" fill="#fff"/>
+    <rect id="Rectangle_1282" data-name="Rectangle 1282" width="135.705" height="11.575" transform="translate(77.432 243.161)" fill="#fff"/>
+    <rect id="Rectangle_1283" data-name="Rectangle 1283" width="193.18" height="11.575" transform="translate(77.432 266.709)" fill="#fff"/>
+    <g id="Groupe_35632" data-name="Groupe 35632" transform="translate(106.828 498.119)">
+      <rect id="Rectangle_1284" data-name="Rectangle 1284" width="271.41" height="11.575" transform="translate(0 143.576)" fill="#f0f6ff"/>
+      <rect id="Rectangle_1285" data-name="Rectangle 1285" width="189.614" height="11.575" transform="translate(40.898 167.125)" fill="#f0f6ff"/>
+      <rect id="Rectangle_1286" data-name="Rectangle 1286" width="145.909" height="11.575" transform="translate(62.751 191.273)" fill="#f0f6ff"/>
+      <rect id="Rectangle_1287" data-name="Rectangle 1287" width="134.456" height="109.938" transform="translate(68.477 0)" fill="#f0f6ff"/>
+    </g>
+    <g id="Groupe_35633" data-name="Groupe 35633" transform="translate(418.151 498.119)">
+      <rect id="Rectangle_1288" data-name="Rectangle 1288" width="271.41" height="11.575" transform="translate(0 143.576)" fill="#f0f6ff"/>
+      <rect id="Rectangle_1289" data-name="Rectangle 1289" width="189.614" height="11.575" transform="translate(40.898 167.125)" fill="#f0f6ff"/>
+      <rect id="Rectangle_1290" data-name="Rectangle 1290" width="145.909" height="11.575" transform="translate(62.751 191.273)" fill="#f0f6ff"/>
+      <rect id="Rectangle_1291" data-name="Rectangle 1291" width="134.456" height="109.938" transform="translate(68.477 0)" fill="#f0f6ff"/>
+    </g>
+  </g>
+</svg>
